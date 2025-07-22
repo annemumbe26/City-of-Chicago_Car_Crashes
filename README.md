@@ -1,5 +1,7 @@
 # Predicting Primary Contributory Causes of Car Crashes in Chicago
 
+![alt text](image.png)
+
 ## Project Overview
 This project aims to develop a machine learning model to predict the **primary contributory cause** of car accidents in Chicago. By analyzing historical crash data, the goal is to provide actionable insights to the City of Chicago's Traffic Management Department, enabling more targeted interventions to improve road safety and reduce incidents.
 
