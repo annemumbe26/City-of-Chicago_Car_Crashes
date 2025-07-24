@@ -1,6 +1,6 @@
 # Predicting Primary Contributory Causes of Car Crashes in Chicago
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 # 🚧 Business Problem and Goal
