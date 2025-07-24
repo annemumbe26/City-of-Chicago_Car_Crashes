@@ -87,6 +87,7 @@ Data used was sourced from the **Chicago Data Portal**, specifically:
 ## 🔍 Feature Importance (LightGBM)
 
 ### Top Influential Features:
+![alt text](image-3.png)
 - `CRASH_HOUR`, `BEAT_OF_OCCURRENCE`
 - `CRASH_DAY_OF_WEEK`, `CRASH_MONTH`, `CRASH_YEAR`
 - `POSTED_SPEED_LIMIT`
@@ -98,7 +99,7 @@ Data used was sourced from the **Chicago Data Portal**, specifically:
 ---
 
 # 📋 Classification Report (LightGBM)
-
+![alt text](image-2.png)
 ```
 [Classification Report Snippet Removed for Brevity]
 ```
@@ -107,6 +108,7 @@ Data used was sourced from the **Chicago Data Portal**, specifically:
 
 # 🔁 Confusion Matrix (LightGBM + SMOTE)
 
+![alt text](image.png)
 ### Key Observations:
 - Diagonal: Correct predictions (darker = better).
 - `UNABLE TO DETERMINE` has the highest correct predictions.
